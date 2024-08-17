@@ -1,0 +1,11 @@
+{
+    "java.project.sourcePaths": [
+        "src",
+        "test"
+    ],
+    "java.project.referencedLibraries": [
+        "lib/junit-platform-console-standalone-1.11.0.jar",
+        "lib/opentest4j-1.3.0.jar",
+        "lib/junit-jupiter-api-5.11.0.jar"
+    ]
+}
